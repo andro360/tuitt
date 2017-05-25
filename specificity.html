@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Specificity</title>
+	<style type="text/css">
+
+	#section-main span {
+		color: yellow;
+	}
+
+		.important-text {
+			color: brown;
+		}
+		span {
+			color:red;
+		}
+		div div span {
+			color: blue;
+		}
+		div span {
+			color: orange;
+		}
+		
+	</style>
+</head>
+<body>
+<div id="section-main">
+	<span class="important-text" style="color:grey">
+		This is the content.
+	</span>
+
+</div>
+</body>
+</html>
