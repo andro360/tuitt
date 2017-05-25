@@ -1,0 +1,46 @@
+@font-family: 'Lily Script One', cursive;
+
+.container-fluid {
+	background: url("sunflower.jpg") no-repeat center;
+	background-size: cover;
+	padding: 0;
+	/*height: 30vh;*/
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+}
+
+.navbar {
+	background-color: rgba(102,51,0,0.5);
+	border: none;
+}
+
+.banner-caption {
+	text-align: center;
+	color: white;
+	padding: 100px 0;
+}
+
+.list > ul > li {
+	list-style-type: none;
+	color: white;
+
+}
+
+.btm-li:hover {
+	background-color: yellow;
+}
+
+.affix {
+	left: 0;
+	top: 0;
+}
+
+.nav-btm {
+	margin-bottom: 0;
+}
+
+.navbar-default .navbar-nav >li > a {
+	color: white;
+}
