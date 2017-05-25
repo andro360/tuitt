@@ -1,0 +1,49 @@
+.clear:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.container {
+	background: black;
+	color: white;
+	width: 1000px;
+	padding: 10px;
+}
+
+.left {
+	width: 60%;
+	float: left;
+}
+
+.right {
+	width: 40%;
+	float: right;
+}
+
+.left > figure {
+	width: 150px;
+	padding: 5px;
+	border: 1px solid white;
+	float: left;
+	text-align: center;
+}
+
+figcaption {
+	padding: 5px 0 10px;
+}
+
+.grey-box {
+	width: 150px;
+	height: 150px;
+	background-color: grey;
+}
+
+.big-fig {
+	width: 100%;
+	height: 200px;
+}
+
+.right-bottom {
+	float: right;
+}

@@ -1,0 +1,156 @@
+.clear:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.item-1 {
+	border: 1px solid black;
+	background: black;
+	width: 700px;
+	padding: 10px;
+	float: left;
+	position: absolute;
+	top: 5px;
+	left: 5px;
+}
+
+.fi {
+	width: 150px;
+	height: 150px;
+	margin: 12px;
+	background: grey;
+	float: left;
+}
+
+.item-2 {
+	border: 1px solid black;
+	background: black;
+	width: 700px;
+	padding: 10px;
+	float: left;
+	position: absolute;
+	top: 500px;
+	left: 5px;
+	/*box-sizing: border-box;*/
+}
+
+.fig {
+ 	/*width: 150px;
+ 	height: 150px;*/
+ 	padding: 10px;
+ 	border: 1px solid white;
+ 	float: left;
+ 	margin: 12px;
+ 	/*box-sizing: border-box;*/
+ 	background: grey;
+ 	position: relative;
+ }
+
+.figc {
+	/*position: absolute;*/
+	/*bottom: 10%;
+	left: 30%;
+*/	margin:40px;
+	color: 
+}
+
+.item-3 {
+	width: 700px;
+	position: absolute;
+	top: 1200px;
+	left: 5px;
+	background-color: black;
+	color: white;
+	position: 
+	box-sizing: border-box;
+	margin-left: 5px;
+	padding-left: 5px;
+}
+
+.fig-b {
+	background-color: grey;
+	width: 150px;
+	height: 150px;
+	padding: 10px;
+	float: left;
+	margin-right: 10px;
+	margin-left: 5px;
+	margin-top: 2px;
+	box-sizing: border-box;
+}
+
+.item-4 {
+	width: 700px;
+	/*position: absolute;
+	top: 1700px;
+	left: 5px;*/
+	background-color: black;
+	color: white;
+	box-sizing: border-box;
+	margin-left: 5px;
+	margin-top: 5px;
+	padding-left: 5px;
+	padding: 10px;
+}
+
+.harrisons {
+	width: 77%;
+	float: right;
+	margin-top: 0;
+
+}
+
+.fig-c {
+	width: 20%;
+	height: 150px;
+	background-color: grey;
+	box-sizing: border-box;
+	float: left;
+	margin-right: 10px;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+.item-5 {
+	width: 700px;
+	padding: 10px;
+	background-color: black;
+
+}
+
+.item-5-right {
+	width: 92%;
+}
+
+.item-5-left {
+	width: 7%;
+}
+
+.text-area {
+	width: 92%;
+	float: right;
+	position: absolute;
+	top: 2200px;
+	left: 5px;
+	background-color: white;
+	color: black;
+	box-sizing: border-box;
+	margin-left: 5px;
+	margin-top: 5px;
+	padding-left: 5px;
+}
+
+.comment {
+	float: left;
+}
+
+.item-5b {
+	width: 150px;
+	height: 150px;
+	background-color: grey;
+	box-sizing: border-box;
+	float: left;
+
+}
+

@@ -1,0 +1,7 @@
+.thumbnail {
+	border: none;
+}
+
+.image:hover {
+	opacity: 0.5;
+}

@@ -1,0 +1,152 @@
+		.uno {
+			width: 100px;
+			height: 100px;
+			background-color: orange;
+		}
+		.dos {
+			width: 100px;
+			height: 100px;
+			background-color: orange;
+			border-left: 10px solid blue;
+			border-right: 10px solid blue;
+			color: orange;
+			box-sizing: border-box;
+		}
+		.tres {
+			width: 150px;
+			height: 20px;
+			border-radius: 0 10px;
+			border: 1px solid black;
+			text-align: center;
+		}
+		.cuatro {
+			width: 100px;
+			height: 100px;
+			background-color: pink;
+			color: pink;
+			text-align: center;
+			border-radius: 100px;
+		}
+		.cinco {
+			width: 100px;
+			height: 100px;
+			background-color: pink;
+			color: black;
+			text-align: center;
+			border-radius: 100px;
+			/*padding-top: 35px;*/
+			line-height: 600%;
+			/*box-sizing: border-box;*/
+			position: relative;
+		}
+		.seis {
+			height: 100px;
+			width: 400px;
+			border: 1px solid black;
+			background-image: url("flowerborder.jpg");
+			background-position: bottom left;
+			background-repeat: no-repeat;
+			background-size: 100px;
+		}
+		/*.img {
+			height: 100px;
+		}*/
+		.siete {
+			position: relative;
+			height: 100px;
+			width: 400px;
+			border: 1px solid black;
+		}
+		.coconut,.sun {
+			height: 50px;
+		}
+		.sun {
+			position: absolute;
+			top: 0;
+			left: 0;
+			/*position: absolute;
+			top: 40%;
+			left: 40%;*/
+		}
+		.coconut {
+			position: absolute;
+			right: 0;
+			bottom: 0;
+		}
+		.summer {
+			position: absolute;
+			top: 40%;
+			left: 40%;
+		}
+		.ocho {
+			position: relative;
+			height: 100px;
+			width: 400px;
+			border: 1px solid black;
+			/*text-align: center;
+			line-height: 600%;*/
+		}
+		.nueve {
+		width: 100px;
+		height: 100px;
+		/*text-align: center;*/
+		border-radius: 100px;
+		}
+		.dog {
+			height: 100px;
+			width: 100px;
+			border-radius: 100px;
+		}
+		.dies {
+			height: 100px;
+			width: 400px;
+			border: 1px solid black;
+			position: relative;
+			/*text-align: left;*/
+
+		}
+
+		.arf {
+			position: absolute;
+			bottom: 40px;
+		}
+		h1 {
+			text-align: center;
+		}
+		.once {
+			text-align: center;
+			width: 400px;
+			border: 1px solid black;
+		}
+
+		.little {
+			width: 50px;
+		}
+		.doce {
+			text-align: center;
+			width: 400px;
+			border: 1px solid black;
+			}
+		.q {
+			background-color: salmon;
+			margin: 5px 5px;
+			padding: 5px;
+			}
+		.mesa {
+			text-align: center;
+		}
+		.heading1 {
+			background-color: black;
+			color: white;
+		}
+		table, th, td {
+			/*border-collapse: collapse;*/
+			/*width: 250px;*/
+			border: 1px solid black;
+			padding: 15px;
+		}
+		table {
+			border-spacing: collapse;
+		}
+
+		

@@ -1,0 +1,39 @@
+.item-7 {
+	background-color: black;
+	width: 500px;
+	padding: 10px;
+	float: left;
+}
+
+figure {
+	width: 40%;
+	float: right;
+	background-color: grey;
+	height: 100px;
+	margin: 0 5px 0 0;
+}
+
+.left {
+	width: 59%;
+	float: left;
+	margin: 0;
+	color: grey;
+
+}
+
+.clear:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.diy {
+	color: white;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+.span2 {
+	color: grey;
+	font-size: 12px;
+}
